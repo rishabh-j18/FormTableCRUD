@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+#Here is the output view in sandbox
+
+githubbox.com/rishabh-j18/FormTableCRUD
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
