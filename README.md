@@ -1,6 +1,6 @@
 #Here is the output view in sandbox
 
-githubbox.com/rishabh-j18/FormTableCRUD
+[FromCRUDTable](githubbox.com/rishabh-j18/FormTableCRUD)
 
 
 # Getting Started with Create React App
