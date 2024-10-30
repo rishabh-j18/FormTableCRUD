@@ -1,6 +1,6 @@
 #Here is the output view in sandbox
 
-[FromCRUDTable](githubbox.com/rishabh-j18/FormTableCRUD)
+[FromCRUDTable](https://codesandbox.io/p/sandbox/github/rishabh-j18/FormTableCRUD/tree/main)
 
 
 # Getting Started with Create React App
